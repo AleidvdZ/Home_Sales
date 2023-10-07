@@ -6,12 +6,21 @@ The purpose of this challenge is to determine key metrics about home sales data 
 ## Process and Resources  
 ### Timeline/Insights:  
 1007 Downloaded files and started project  
+1007 Completed project
 
 ### Files and Links used for Reference:  
-Module 2 activities  
+Module 22 activities  
 
 ## Examples  
-Examples   
+Examples of time it took for run:
+Original:  
+<img width="235" alt="original" src="https://github.com/AleidvdZ/Home_Sales/assets/131220504/c2688130-c823-4ff8-8262-5370549e6feb">  
+
+Cached:  
+<img width="229" alt="cached" src="https://github.com/AleidvdZ/Home_Sales/assets/131220504/11e9092a-4117-4b62-93e7-474e48555657">  
+
+Partitioned:  
+<img width="245" alt="partitioned" src="https://github.com/AleidvdZ/Home_Sales/assets/131220504/fe98117f-6521-4ab3-adaa-137ad34e076f">  
 
 ## Installing  
 From the starter code:  
