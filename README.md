@@ -22,6 +22,9 @@ Cached:
 Partitioned:  
 <img width="245" alt="partitioned" src="https://github.com/AleidvdZ/Home_Sales/assets/131220504/fe98117f-6521-4ab3-adaa-137ad34e076f">  
 
+Proof of partinioning:  
+<img width="250" alt="partitioning_files" src="https://github.com/AleidvdZ/Home_Sales/assets/131220504/6374b495-f300-4f4e-a2cc-d10417d2fcbf">  
+
 ## Installing  
 From the starter code:  
 import Spark and Java  
